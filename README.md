@@ -12,21 +12,28 @@ First you'll need the following:
 
 ## Instructions
 You first need to download the Blynk, NeoPixel and ESP8266 Libraries installed into Arduino IDE.
+To download the Blynk and Neopixel Libraries you just need to go to Tools -> Manage Libraries then search for the names.
 
-Blynk:
+### Blynk:
 
 ![What the Blynk Library looks like.](https://i.imgur.com/jwaLdll.png)
 
 
-NeoPixel:
+### NeoPixel:
 
 ![What the NeoPixel Library looks like.](https://i.imgur.com/fdc4KWc.png)
 
 
-ESP8266:
+### ESP8266:
 
 To first download the ESP8266 Board Library you must first go into your preferences and paste this link into the circled area: 
 `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
 
 ![First step to getting the ESP8266 Library.](https://i.imgur.com/BUa4yUE.png)
 
+Once you pasted the link, close out the window. Once you done that go into Tools -> Boards -> Boards Manager and search for ESP8266 then download it.
+
+![Last step to getting ESP8266 Library](https://i.imgur.com/uToKObm.png)
+
+
+Once you have all of the Libraries downloaded, download my code and upload it to your NodeMCU. Make sure to read the comments!
