@@ -35,5 +35,12 @@ Once you pasted the link, close out the window. Once you done that go into Tools
 
 ![Last step to getting ESP8266 Library](https://i.imgur.com/uToKObm.png)
 
+## Wiring
 
-Once you have all of the Libraries downloaded, download my code and upload it to your NodeMCU. Make sure to read the comments!
+NodeMCU | LED Strip
+------------ | -------------
+D2 (GPIO 4) | DIN (Data In)
+VIN | 5V In
+GND | GND
+
+Once you have all of the Libraries downloaded, download my code and upload it to your NodeMCU. Make sure to read the comments! Then wire it according to my Table.
