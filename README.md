@@ -18,6 +18,15 @@ Blynk:
 ![What the Blynk Library looks like.](https://i.imgur.com/jwaLdll.png)
 
 
-NeoPixel
+NeoPixel:
 
-![What the Blynk Library looks like.](https://i.imgur.com/jwaLdll.png)
+![What the NeoPixel Library looks like.](https://i.imgur.com/fdc4KWc.png)
+
+
+ESP8266:
+
+To first download the ESP8266 Board Library you must first go into your preferences and paste this link into the circled area: 
+`http://arduino.esp8266.com/stable/package_esp8266com_index.json`
+
+![First step to getting the ESP8266 Library.](https://i.imgur.com/BUa4yUE.png)
+
