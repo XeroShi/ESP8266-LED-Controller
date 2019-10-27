@@ -14,4 +14,10 @@ First you'll need the following:
 You first need to download the Blynk, NeoPixel and ESP8266 Libraries installed into Arduino IDE.
 
 Blynk:
+
+![What the Blynk Library looks like.](https://i.imgur.com/jwaLdll.png)
+
+
+NeoPixel
+
 ![What the Blynk Library looks like.](https://i.imgur.com/jwaLdll.png)
