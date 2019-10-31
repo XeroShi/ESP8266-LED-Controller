@@ -11,6 +11,7 @@ First you'll need the following:
 6. A Computer with Arudino IDE.
 
 ## Instructions
+
 You first need to download the Blynk, NeoPixel and ESP8266 Libraries installed into Arduino IDE.
 To download the Blynk and Neopixel Libraries you just need to go to Tools -> Manage Libraries then search for the names.
 
@@ -37,10 +38,16 @@ Once you pasted the link, close out the window. Once you done that go into Tools
 
 ## Wiring
 
+Once you have all of the Libraries downloaded, download my code and upload it to your NodeMCU. Make sure to read the comments! Then wire it according to my Table.
+
 NodeMCU | LED Strip
 ------------ | -------------
 D2 (GPIO 4) | DIN (Data In)
 VIN | 5V In
 GND | GND
 
-Once you have all of the Libraries downloaded, download my code and upload it to your NodeMCU. Make sure to read the comments! Then wire it according to my Table.
+## Blynk App Set Up
+
+Once you finished wiring everything up follow the images and instructions.
+
+Download the Blynk App then Create a New Project
