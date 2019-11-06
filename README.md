@@ -50,5 +50,26 @@ GND | GND
 
 Once you finished wiring everything up follow the images and instructions.
 
+Please Download the Blynk App and make an account to get your Auth Codes
+IOS: [Download](https://apps.apple.com/us/app/blynk-iot-for-arduino-esp32/id808760481)
+Android: [Download](https://play.google.com/store/apps/details?id=cc.blynk&hl=en_US)
+
 Download the Blynk App then Create a New Project
 ![ProjectBlynk](https://i.imgur.com/Ewvwp1U.jpg)
+
+Use these settings but you can change the name and theme just be sure to set Device and Connection.
+![ProjectBlynker](https://i.imgur.com/pEimOlq.jpg)
+
+You'll then have a Auth Token sent to your Email.
+![WhoEvenReadThese?](https://i.imgur.com/zP7wiGp.jpg)
+
+Open the Widget Box on the left side of the screen by pressing the + at the top of the screen then click on zeRGBra
+![IfyouDoReadThemYoureaHomie](https://i.imgur.com/r98uSsV.png)
+
+![BruhMoment](https://i.imgur.com/qV8rVs7.jpg)
+
+Click on the zeRGBra Widget then click the switch to Merge and set the Pin to V2
+![GodBlessYouIfYouStarThisRepo](https://i.imgur.com/w2JDFP4.jpg)
+
+## You're Done!
+Once you've done all of that and wired it then you can click the Play button at the top right of the screen and now you can control your LED Strip from WiFi!
