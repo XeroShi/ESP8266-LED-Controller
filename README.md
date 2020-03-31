@@ -74,3 +74,8 @@ Open the Widget Box on the left side of the screen by pressing the + at the top 
 
 ## You're Done!
 Once you've done all of that and wired it then you can click the Play button at the top right of the screen and now you can control your LED Strip from WiFi!
+
+## Upcoming features:
+*Auto Reconnect
+*Animations Buttons
+*Bightness Control
