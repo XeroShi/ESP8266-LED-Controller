@@ -81,3 +81,5 @@ Auto Reconnect
 Animations Buttons
 
 Bightness Control
+
+OTA Support
