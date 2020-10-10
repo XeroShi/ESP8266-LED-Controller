@@ -1,3 +1,6 @@
+#WARNING!!
+I am working on improving this repo and project to make it more efficient and better. Everything below this is outdated until otherwise.
+
 # ESP8266 Controller with Blynk.
 Control your LED Light Strip with An ESP8266 and a Mobile Device.
 
